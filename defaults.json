@@ -1,0 +1,5 @@
+{
+  "manifest": "./public/rev-manifest.json",
+  "prepend": "",
+  "debug": false
+}

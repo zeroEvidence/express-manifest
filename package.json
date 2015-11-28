@@ -1,0 +1,46 @@
+{
+  "name": "express-manifest",
+  "version": "0.1.0",
+  "description": "Middleware which resolves requests based on generic filenames to the associated file fingerprint outlined in a manifest file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeroEvidence/express-manifest.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "manifest",
+    "rev",
+    "revision",
+    "fingerprint",
+    "asset",
+    "assets",
+    "view",
+    "views",
+    "replace",
+    "path",
+    "static"
+  ],
+  "author": {
+    "name": "zeroEvidence <daleamoore@gmail.com>"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeroEvidence/express-manifest/issues"
+  },
+  "homepage": "https://github.com/zeroEvidence/express-manifest",
+  "dependencies": {
+    "express": "^4.8.0",
+    "lodash": "^3.6.0"
+  },
+  "maintainers": [
+    {
+      "name": "zeroEvidence",
+      "email": "daleamoore@gmail.com"
+    }
+  ]
+}
