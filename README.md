@@ -60,15 +60,15 @@ module.exports = app;
 
 ### manifest: String
 
-> Path to JSON manifest file relative to your "index.js"
+> Path to JSON manifest file relative to your "index.js".
 
 ### prepend: String
 
-> URL path where route for static assets are.
+> Path to where the static assets are.
 
 ### reqPathFind: String || Regex
 
-> Modify the req.path as you see fit.
+> The search String / Regex to modify the req.path as you see fit.
 
 ### reqPathReplace: String
 

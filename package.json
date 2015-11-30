@@ -1,6 +1,6 @@
 {
   "name": "express-manifest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Middleware which resolves requests based on generic filenames to the associated file fingerprint outlined in a manifest file.",
   "main": "index.js",
   "scripts": {
